@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# Local data (keep dataset out of Git if repository size/license constraints apply)
+data/raw/*.csv
